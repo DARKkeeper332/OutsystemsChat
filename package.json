@@ -2,7 +2,7 @@
     "name"        : "Server",
     "version"     : "1.0.0",
     "description" : "helio dolores chat server",
-	"author" : "Hélio Dolores <heliodolores@gmail.com>",
+	"author" : "Hélio Dolores <shahin.keshavari@coolprofs.com>",
     "dependencies": {
 		"socket.io"		: "0.9.x",
 		"url"			: "0.7.x",
